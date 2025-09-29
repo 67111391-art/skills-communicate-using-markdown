@@ -13,3 +13,6 @@ This is just test of markdown
 name = input('What is your name?')
 print(f'Welcome {name}')
 ```
+
+- [] Python3
+- [x] html & css
