@@ -8,3 +8,8 @@ This is just test of markdown
 # <h6></h6>
 -->
 ![Cat photo](https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+```Python3
+name = input('What is your name?')
+print(f'Welcome {name}')
+```
